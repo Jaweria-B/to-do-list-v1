@@ -39,7 +39,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Jaweria-B/to-do-list-v1
    ```
 
 2. Navigate to the project directory:
